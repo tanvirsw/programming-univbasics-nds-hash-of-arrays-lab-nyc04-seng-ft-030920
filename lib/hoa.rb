@@ -11,6 +11,7 @@ def add_character(show, name)
     :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
     :jetsons => ["George", "Jane", "Judy", "Elroy"]
   }
+  show
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
